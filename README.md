@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KavithaCheechu
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Machine Learning
-- 💞️ I’m looking to collaborate on Data Science projects
+- 🌱 I’m currently learning Data Analytics
+- 💞️ I’m looking to collaborate on Data Analytics projects
 - 📫 How to reach me - kavi.cheechu19@gmail.com
 
 <!---
